@@ -4,6 +4,9 @@ Welcome to the **Web3 Security Resources Hub**! This repository is your one-stop
 
 ![Web3 Security](https://img.shields.io/badge/Web3-Security-blue)
 
+![image](https://github.com/user-attachments/assets/5d1c0f98-6599-485b-9630-9e15ca741a81)
+
+
 ## 📚 Table of Contents
 
 1. [🌐 Roadmaps & Learning Paths](#-roadmaps--learning-paths)
