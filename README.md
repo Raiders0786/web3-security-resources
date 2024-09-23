@@ -351,4 +351,4 @@ Thank you for visiting the **Web3 Security Resources Hub**! Happy learning and s
 
 ---
 
-*This repository is maintained by [Raiders]. If you find any broken links or have suggestions for improvement, please let us know!*
+*This repository is maintained by Raiders. If you find any broken links or have suggestions for improvement, please let us know!*
