@@ -103,13 +103,8 @@ Comprehensive audit reports from leading security firms.
   - [ConsenSys Audit Reports](https://consensys.net/diligence/audits/)
 - **Quill Audits**
   - [Quillhash Audit Reports](https://audits.quillhash.com/audits)
-- **NFT Projects Audits**
-  - [Pessimistic.io Audits for NFT](https://blog.pessimistic.io/auditing-tips-for-nft-projects-355872213848)
 - **Comprehensive Audit Lists**
   - [Blockchain Security Audit List](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
-  - [Good Collection of Audit Reports](https://docs.google.com/document/d/16WdxLTqPoYsMzBfmfchapuel6Uo4b3xcuk7Oaj515FQ/edit?mode=html)
-- **DefiYield Rekt Database**
-  - [DefiYield Rekt Database](https://defiyield.xyz/rekt-database)
 
 ---
 
