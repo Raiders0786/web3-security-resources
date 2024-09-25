@@ -26,8 +26,9 @@ Welcome to the **Web3 Security Resources Hub**! This repository is your one-stop
 15. [🧑‍💻 Developer Resources](#-developer-resources)
 16. [📈 Job Boards](#-job-boards)
 17. [📄 Academic Papers](#-academic-papers)
-18. [💡 Contribution](#-contribution)
-19. [📫 Contact](#-contact)
+18. [👨‍💻 Sway Language Security Audit](#-sway-security-resources)
+19. [💡 Contribution](#-contribution)
+20. [📫 Contact](#-contact)
 
 ---
 
@@ -322,6 +323,24 @@ Research papers and academic resources on smart contract security and blockchain
 - [Academic Smart Contract Papers Collection](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)
 - [MEV Conundrum Research](https://verilog-solutions.notion.site/The-MEV-Conundrum-6d66001b150148739be14d73a8836903)
 - [Smart Contract Attack Vector Detection](https://www.hindawi.com/journals/scn/2021/2897565/alg1/)
+
+---
+
+## 🔐 Sway Language Security & Audit Resources
+
+The **Sway language** is a domain-specific language for the **Fuel network**. It is built to ensure smart contract security, and here are some key resources for learning and mastering Sway from a security auditing perspective.
+
+- **Introduction to the Sway Language Security Audit**
+  - [Introduction to Sway Language Security Audit](https://exvul.com/introduction-to-the-sway-language-security-audit/) – An in-depth introduction to the security audits of Sway language in the Fuel ecosystem.
+  
+- **Mastering Sway Analyzer**
+  - [Mastering Sway Analyzer](https://medium.com/@angelos404/mastering-sway-analyzer-27379d7903db) – An essential guide to using the Sway Analyzer to enhance smart contract security.
+  
+- **Sway Standards for Security Information**
+  - [Sway Standards - Security Information (SRC-11)](https://docs.fuel.network/docs/sway-standards/src-11-security-information/) – Official documentation on security standards for Sway language in Fuel Network.
+
+- **Top Bugs from the Fuel Attackathon**
+  - [Top 5 Bugs from the Fuel Attackathon](https://medium.com/immunefi/top-5-bugs-from-the-fuel-attackathon-80eda8920505) – A breakdown of the most significant security bugs discovered during the ImmuneFi Fuel Attackathon, providing insights into potential vulnerabilities in Sway-based projects.
 
 ---
 
