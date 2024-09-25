@@ -26,7 +26,7 @@ Welcome to the **Web3 Security Resources Hub**! This repository is your one-stop
 15. [🧑‍💻 Developer Resources](#-developer-resources)
 16. [📈 Job Boards](#-job-boards)
 17. [📄 Academic Papers](#-academic-papers)
-18. [👨‍💻 Sway Language Security Audit](#-sway-security-resources)
+18. [👨‍💻 Sway Language Security Audit](#-sway-language-security--audit-resources)
 19. [💡 Contribution](#-contribution)
 20. [📫 Contact](#-contact)
 
