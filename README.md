@@ -342,6 +342,8 @@ The **Sway language** is a domain-specific language for the **Fuel network**. It
 
 - [how to create and test a simple SRC20 contract in Sway](https://github.com/jecikpo/Tutorial-Fuel-SRC20)
 
+- [Fuel Network Academy, ImmuneFi Attackathon](https://immunefi.com/boost/fuel-network-attackathon/leaderboard/)
+
 ---
 
 ## 💡 Contribution
