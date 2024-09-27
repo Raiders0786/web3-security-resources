@@ -338,6 +338,10 @@ The **Sway language** is a domain-specific language for the **Fuel network**. It
 
 - [Top 5 Bugs from the Fuel Attackathon](https://medium.com/immunefi/top-5-bugs-from-the-fuel-attackathon-80eda8920505) – A breakdown of the most significant security bugs discovered during the ImmuneFi Fuel Attackathon, providing insights into potential vulnerabilities in Sway-based projects.
 
+- [Rewrite the Uniswap V2 DeX using Sway on Fuel](https://github.com/jecikpo/Tutorial-Sway-UniswapV2)
+
+- [how to create and test a simple SRC20 contract in Sway](https://github.com/jecikpo/Tutorial-Fuel-SRC20)
+
 ---
 
 ## 💡 Contribution
