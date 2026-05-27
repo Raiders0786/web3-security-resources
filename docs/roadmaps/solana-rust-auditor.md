@@ -30,6 +30,7 @@ applications, SPL integrations, and Token-2022 extensions.
 | Resource | Why |
 | --- | --- |
 | [Solana Docs](https://solana.com/docs) | Current platform and account-model reference. |
+| [Rareskills Solana Tutorial](https://rareskills.io/solana-tutorial) | Learn Solana coming from EVM. |
 | [Anchor Book](https://www.anchor-lang.com/docs) | Primary framework documentation for modern Solana programs. |
 | [SPL Token Docs](https://spl.solana.com/token) | Token authority and account model reference. |
 | [Token-2022 Docs](https://spl.solana.com/token-2022) | Extension model and newer token risk surface. |

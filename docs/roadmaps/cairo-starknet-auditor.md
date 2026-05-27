@@ -29,6 +29,7 @@ account abstraction, bridges, and L2 messaging.
 | Resource | Why |
 | --- | --- |
 | [Cairo Book](https://book.cairo-lang.org/) | Primary Cairo language reference. |
+| [Rareskills Cairo Tutorials](https://rareskills.io/cairo-tutorial) | Developer-friendly series for  experienced programmers. |
 | [Starknet Docs](https://docs.starknet.io/) | Platform, accounts, contracts, and tooling reference. |
 | [Starknet Foundry](https://foundry-rs.github.io/starknet-foundry/) | Testing framework for Cairo contracts. |
 | [OpenZeppelin Cairo Contracts](https://docs.openzeppelin.com/contracts-cairo/) | Security-reviewed Cairo components and patterns. |
