@@ -50,6 +50,7 @@ and operate Web3 systems safely.
 
 ## High-Signal Resources
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [OWASP Smart Contract Top 10 2026](https://owasp.org/www-project-smart-contract-top-10/)
 - [OWASP Smart Contract Security Verification Standard](https://scs.owasp.org/SCSVS/)
 - [OpenZeppelin Readiness Guide](https://www.openzeppelin.com/readiness-guide)
