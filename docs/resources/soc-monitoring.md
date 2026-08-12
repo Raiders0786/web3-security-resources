@@ -22,6 +22,7 @@ DNS, dependencies, wallets, APIs, and governance.
 | [zeroShadow](https://www.zeroshadow.io/) | Paid / certification | Web3 incident response, investigations, threat intelligence, and vSOC. |
 | [TRM Labs](https://www.trmlabs.com/) | Paid / certification | Wallet risk monitoring, investigations, and blockchain intelligence. |
 | [VANTAGE by DigiBastion](https://vantage.digibastion.com/) | Watchlist | Maintainer-labeled domain, DNS, frontend, phishing, and Web3 trust-risk monitoring. |
+| [OpenChainBench](https://openchainbench.com) | Watchlist | Free, open-source RPC reliability benchmarks, oracle deviation tracking (Chainlink/Pyth/Redstone), and MEV-protection RPC measurements. Infrastructure due diligence for protocol security engineers. MIT licensed, 20+ chains. Last verified: August 2026. |
 
 ## Alert Categories
 
