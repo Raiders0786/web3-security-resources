@@ -23,6 +23,7 @@ DNS, dependencies, wallets, APIs, and governance.
 | [TRM Labs](https://www.trmlabs.com/) | Paid / certification | Wallet risk monitoring, investigations, and blockchain intelligence. |
 | [VANTAGE by DigiBastion](https://vantage.digibastion.com/) | Watchlist | Maintainer-labeled domain, DNS, frontend, phishing, and Web3 trust-risk monitoring. |
 | [OpenChainBench](https://openchainbench.com) | Watchlist | Free, open-source RPC reliability benchmarks, oracle deviation tracking (Chainlink/Pyth/Redstone), and MEV-protection RPC measurements. Infrastructure due diligence for protocol security engineers. MIT licensed, 20+ chains. Last verified: August 2026. |
+| [Gliese Watch](https://gliese.io/) | Watchlist | Public feed of privileged changes on six EVM chains (proxy upgrades, owner, admin and role changes, Safe signer changes, timelock queues) with a per-contract control profile. Feed, history and Telegram alerts are free; webhooks and API are paid. Last verified: October 2026. |
 
 ## Alert Categories
 

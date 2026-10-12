@@ -1007,6 +1007,20 @@
   ecosystem: [protocol]
   evidence_type: curated_reference
   notes: Existing curated entry; verify source context, maintenance, and fit before operational reliance.
+- title: Gliese Watch
+  url: https://gliese.io/
+  category: monitoring
+  track: protocol
+  level: watchlist
+  free_or_paid: freemium
+  last_verified: 2026-10-12
+  why_it_matters: Public record of privileged changes (proxy upgrades, owner and role changes, Safe signers, timelock queues) on six EVM chains, with who controls each contract.
+  status: active
+  audience: [auditors, protocol_teams, security_leads]
+  stage: [monitoring, incident_response]
+  ecosystem: [ethereum, evm]
+  evidence_type: tool_documentation
+  notes: Young tool (live since September 2026); a control profile says where the walk stopped when a controller could not be read.
 - title: Blockaid
   url: https://www.blockaid.io/
   category: user_protection
