@@ -17,6 +17,7 @@ description: Incident Response page in the Web3 Security Resources 2026 hub.
 | [zeroShadow](https://www.zeroshadow.io/) | Paid / certification | Web3 incident response, investigations, threat intelligence, and vSOC. |
 | [DigiBastion Threat Intel](https://www.digibastion.com/threat-intel) | Use in real audits | Free alert feed for Web3 incidents, DeFi exploits, supply-chain threats, and operational-security updates. |
 | [DigiBastion Threat Intel Subscribe](https://www.digibastion.com/threat-intel?tab=subscribe) | Use in real audits | Daily, weekly, or immediate email alerts for security engineers, founders, and developers. |
+| [compromised-wallet-sweeper-rescue](https://github.com/mevdao-org/compromised-wallet-sweeper-rescue) | Situational / advanced | Open-source (MIT) TypeScript scripts for moving tokens or claiming airdrops out of a compromised EOA that a sweeper bot is watching, using a sponsored Flashbots bundle; includes an EIP-7702 delegation check. |
 
 ## Minimum IR Runbook
 
