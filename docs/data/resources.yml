@@ -1343,3 +1343,17 @@
   ecosystem: [investigations, incident_response]
   evidence_type: curated_reference
   notes: Existing curated entry; verify source context, maintenance, and fit before operational reliance.
+- title: compromised-wallet-sweeper-rescue
+  url: https://github.com/mevdao-org/compromised-wallet-sweeper-rescue
+  category: incident_response
+  track: evm,incident_response,wallet
+  level: situational_advanced
+  free_or_paid: free
+  last_verified: 2026-11-09
+  why_it_matters: Covers the private key compromise drill where any gas sent to the victim address is swept, by funding and transferring in one sponsored Flashbots bundle.
+  status: active
+  audience: [incident_responders, wallet_engineers]
+  stage: [incident_response]
+  ecosystem: [ethereum, evm]
+  evidence_type: source_repository
+  notes: Maintained by MEV DAO (contributor affiliation disclosed in the PR). Review the scripts before using them with a compromised key; Ethereum mainnet only.
