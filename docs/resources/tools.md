@@ -65,6 +65,7 @@ description: Tools page in the Web3 Security Resources 2026 hub.
 | [Pashov AI Web3 Security](https://github.com/pashov/ai-web3-security) | Must learn | Curated AI Web3 security tools and skills list. |
 | [Pashov Skills](https://github.com/pashov/skills) | Use in real audits | Solidity auditor and x-ray skills for AI-assisted review. |
 | [Octane Security](https://www.octane.security/) | Paid / certification | Commercial AI security tool to evaluate with normal vendor diligence. |
+| [Almondo](https://almondo-labs.ai/) | Paid / certification | Commercial AI audit service for EVM, Solana, Move, Stellar and Cosmos; evaluate with normal vendor diligence. |
 | [Nethermind AuditAgent](https://auditagent.nethermind.io/) | Watchlist | Nethermind-backed AI audit agent; verify outputs manually. |
 | [TestMachine EVMbench](https://testmachine.ai/evmbench/) | Watchlist | Benchmark context for AI EVM exploit reasoning. |
 | [Paradigm EVMbench](https://www.paradigm.xyz/2026/02/evmbench) | Watchlist | Research framing for EVM exploit-generation benchmarks. |

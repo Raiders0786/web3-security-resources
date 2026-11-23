@@ -85,6 +85,7 @@ practical security value, maintenance, accessibility, and reputation.
 | [Offensive Security](https://www.offsec.com/) | General security | Full-stack | Useful for web, infra, and attacker methodology. |
 | [SANS SEC554](https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/) | Training | Protocol | Structured paid blockchain and smart contract security training. |
 | [Octane Security](https://www.octane.security/) | AI security | EVM | Commercial AI security tool to evaluate carefully. |
+| [Almondo](https://almondo-labs.ai/) | AI security | Multi-chain | Commercial AI audit service to evaluate carefully. |
 | [TRM Labs](https://www.trmlabs.com/) | Blockchain intelligence | Compliance | Investigations, monitoring, and wallet risk intelligence. |
 | [Chainalysis](https://www.chainalysis.com/) | Blockchain intelligence | Compliance | Investigations, compliance, and ecosystem intelligence. |
 | [Elliptic](https://www.elliptic.co/) | Blockchain intelligence | Compliance | Crypto risk intelligence and wallet screening. |
